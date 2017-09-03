@@ -1,0 +1,28 @@
+{
+  "name": "@yci/amap-location",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yc-ionic/amap-location.git"
+  },
+  "author": {
+    "name": "Yu Chen",
+    "email": "yu.chen@live.ie"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yc-ionic/amap-location.git/issues"
+  },
+  "main": "yci-amap-location.umd.js",
+  "module": "yci-amap-location.js",
+  "jsnext:main": "yci-amap-location.js",
+  "typings": "yci-amap-location.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
