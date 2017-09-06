@@ -22,7 +22,7 @@
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
     "flatModuleOutFile": "yci-amap-location.js",
-    "flatModuleId": "yci-amap-location"
+    "flatModuleId": "@yci/amap-location"
   },
   "files": [
     "./index.ts"
